@@ -6,7 +6,7 @@ const index = () => {
   return (
     <div>
       <h1>hello i am aarti</h1>
-    <h1>Hello Divya How are you yes i am fine and you </h1>
+    <h1>Hello Divya How are you yes i am fine and you ;</h1>
       <br/>
 
       <div className='head1'>
